@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 .register:hover{
-  background-color: rgb(2, 181, 181);
+  background-color: rgb(1, 128, 128);
   transition: .5s;
 }
